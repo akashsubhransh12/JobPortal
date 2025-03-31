@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  .home-container {
+    padding: 50px;
+    background-color: #fff;
+  }
+  
+  .home-heading {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  .home-description {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  .job-listing-container {
+    padding: 20px;
+  }
+  
+  .post-job-container {
+    padding: 20px;
+  }
+  
+  .login-container {
+    padding: 20px;
+  }
+  
+  .about-container {
+    padding: 20px;
+  }
+  

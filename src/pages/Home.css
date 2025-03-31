@@ -1,0 +1,16 @@
+.home-container {
+    text-align: center;
+    padding: 40px;
+    background-color: #f8f9fa;
+  }
+  
+  .home-title {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .job-highlight {
+    color: #007bff;
+    font-weight: bold;
+  }
+  
